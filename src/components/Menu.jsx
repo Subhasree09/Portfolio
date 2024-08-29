@@ -21,10 +21,13 @@ const Menu = () => {
           <a href="#about">Home</a>
         </li>
         <li>
-          <a href="#experience">Experience</a>
+          <a href="#education">Education</a>
         </li>
         <li>
-          <a href="#education">Education</a>
+          <a href="#courses">Courses</a>
+        </li>
+        <li>
+          <a href="#skills">Skills</a>
         </li>
         <li>
           <a href="#projects">Projects</a>
