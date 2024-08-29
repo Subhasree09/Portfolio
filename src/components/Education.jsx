@@ -15,7 +15,7 @@ const Education = () => {
       id="education"
       className="EXPERIENCE p-5 mx-20 mb-10 min-h-screen font-['Poppins']  max-sm:p-2 max-sm:mx-5"
     >
-      <div className="WRAPPER mt-10">
+      <div className="WRAPPER mt-10" data-aos="fade-down">
         <h1 className="text-[#00040f] dark:text-slate-300 text-center font-extrabold text-5xl mb-5 max-sm:text-4xl   ">
           EDUCATION
         </h1>
