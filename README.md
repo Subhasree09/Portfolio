@@ -14,24 +14,6 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 Hi, there! I am Subhasree Paul, a programming enthusiast who often thinks about developing new things for solving real-world problems. I am passionate about learning new technologies and applying them to create innovative solutions.
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies used.
-   - [GitHub Repository](#)
-
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies used.
-   - [GitHub Repository](#)
-
-3. **Project Name 3**
-   - Description: Brief description of the project.
-   - Technologies: List of technologies used.
-   - [GitHub Repository](#)
 
 ## Skills
 
