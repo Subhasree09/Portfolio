@@ -1,22 +1,52 @@
-# Personal-Portfolio
-Personal Portfolio Website of Dhairya Majmudar a programming enthusiast from IIIT Kota
-<br>
-  <hr>
+# Subhasree Paul's Portfolio
 
-***Cloning repo in local machine***
-- click on the code button (green colour button on right side)
-- click on the download zip (the last one in the drop-down)
-- extract the zip file and open the folder in vs-code
-- then run below commands in the terminal 
-  
-**To run on local machine**
-```js
-npm i
-npm run dev
-```
+Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences as a programming enthusiast.
 
-**PS: Don't forget to star the repo (top right most button) it motivates me to make more such websites.**
+## Table of Contents
 
+- [About Me](#about-me)
+- [Education](#eduction)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Contact](#contact)
 
+## About Me
+
+Hi, there! I am Subhasree Paul, a programming enthusiast who often thinks about developing new things for solving real-world problems. I am passionate about learning new technologies and applying them to create innovative solutions.
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. **Project Name 1**
+   - Description: Brief description of the project.
+   - Technologies: List of technologies used.
+   - [GitHub Repository](#)
+
+2. **Project Name 2**
+   - Description: Brief description of the project.
+   - Technologies: List of technologies used.
+   - [GitHub Repository](#)
+
+3. **Project Name 3**
+   - Description: Brief description of the project.
+   - Technologies: List of technologies used.
+   - [GitHub Repository](#)
+
+## Skills
+
+- Programming Languages: JavaScript, Python, Java, etc.
+- Web Development: HTML, CSS, Django etc.
+- Tools & Technologies: Git, Docker, AWS, etc.
+
+## Contact
+
+Feel free to reach out to me via the following platforms:
+
+- [LinkedIn](#)
+- [GitHub](#)
+- [Email](mailto:your-email@example.com)
+
+Thank you for visiting my portfolio!
 
 
